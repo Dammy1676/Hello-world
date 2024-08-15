@@ -1,1 +1,2 @@
-This is a First Repository work 
+First Hello-world
+This is a repository build step by step 
